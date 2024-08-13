@@ -1,0 +1,14 @@
+.matrixBox {
+  display: none;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: content-box;
+}
+
+.matrisza {
+  box-sizing: content-box;
+}
